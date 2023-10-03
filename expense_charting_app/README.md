@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+SCREENSHOTS..
+![Screenshot_1696341032](https://github.com/Milansaji/expense-chart-app/assets/140674058/cb0dc70e-da2f-463c-8f5f-9925cc12dbbc)
+
